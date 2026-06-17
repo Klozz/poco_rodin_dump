@@ -1,0 +1,163 @@
+{
+  "localId": "c421f171-b6ba-4bd7-9cee-030ad4b6fa00",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "0e588e7b7a3f992a9d4f26d84a6ca866f0894a4d",
+  "platform": 17,
+  "size": 55037156,
+  "updatedTime": 0,
+  "version": "3.0",
+  "authors": {
+    "fallback": "Xiaomi Themes"
+  },
+  "designers": {
+    "fallback": "Xiaomi Themes"
+  },
+  "titles": {
+    "fallback": "POCO X7 Pro Ironman Edition Theme"
+  },
+  "descriptions": {
+    "fallback": "POCO X7 Pro Ironman Edition Theme"
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_icons_small_mask_0.png",
+      "en_US_icons_mask_0.jpg",
+      "en_US_icons_mask_1.jpg",
+      "en_US_animation_0.jpg",
+      "en_US_animation_1.jpg",
+      "en_US_animation_2.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_icons_small_mask_0.png",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_icons_mask_0.jpg",
+      "en_US_icons_mask_1.jpg",
+      "en_US_animation_0.jpg",
+      "en_US_animation_1.jpg",
+      "en_US_animation_2.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "c34bb4d9-609a-481e-9a55-87479132c71d",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "8d1ba700-627e-48fb-9875-7580c1ccd971",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "55bb8f0e-8728-4edc-84bd-fee706b5fdc0",
+      "resourceCode": "bootanimation",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c90eac87-8498-48b5-8487-2e87b86ee0c3",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "dbfa3d67-c94a-4ac8-980d-2df9cc323bf0",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1c5a0972-6739-49bd-a1d2-b7c4ecdecb85",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "993093d3-b2b1-4b96-900c-c692976b3069",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b4ee14cb-9678-4ac5-b98f-783920d76f2c",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9b45db55-e474-40b4-b503-84fcc6ebe78c",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "26651034-384a-449b-93ad-bdb40ca7e59b",
+      "resourceCode": "com.mi.android.globallauncher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}
