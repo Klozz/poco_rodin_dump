@@ -1,0 +1,58 @@
+{
+  "localId": "993093d3-b2b1-4b96-900c-c692976b3069",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "0e5f74ade44a4cd05911cae70dcb794415c1d583",
+  "platform": 17,
+  "size": 142114,
+  "updatedTime": 0,
+  "version": "3.0",
+  "authors": {
+    "fallback": "Xiaomi Themes"
+  },
+  "designers": {
+    "fallback": "Xiaomi Themes"
+  },
+  "titles": {
+    "fallback": "POCO X7 Pro Ironman Edition Theme"
+  },
+  "descriptions": {
+    "fallback": "POCO X7 Pro Ironman Edition Theme"
+  },
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "c421f171-b6ba-4bd7-9cee-030ad4b6fa00",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}
