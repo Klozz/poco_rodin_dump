@@ -1,0 +1,20 @@
+## missi-user 16 BP2A.250605.031.A3 16OS3.1.260826.172029767.MTPEGL.S release-keys
+- Manufacturer: xiaomi
+- Platform: mt6899
+- Codename: rodin
+- Brand: POCO
+- Flavor: missi-user
+- Release Version: 16
+- Kernel Version: 
+- Id: BP2A.250605.031.A3
+- Incremental: 16OS3.1.260826.172029767.MTPEGL.S
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 480
+- Fingerprint: POCO/rodin_global/rodin:15/AP3A.240905.015.A2/OS3.0.302.0.WOJMIXM:user/release-keys
+- OTA version: 
+- Branch: missi-user-16-BP2A.250605.031.A3-16OS3.1.260826.172029767.MTPEGL.S-release-keys
+- Repo: poco_rodin_dump
